@@ -1,0 +1,17 @@
+* {
+	text-align: center;
+	background-color: #222;
+	color: white;
+}
+
+.cell {
+	margin: 0;
+}
+
+/*just testing*/
+
+/*@media (max-width: 1000px) {
+	body {
+		transform: rotate(-90deg);
+	}
+}*/
